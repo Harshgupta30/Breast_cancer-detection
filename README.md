@@ -1,5 +1,5 @@
-# Breast_cancer-detection
-Breast cancer detection using sklearn KNN,random forest
+## Breast_cancer-detection
+#Breast cancer detection using sklearn KNN,random forest
 Breast cancer is cancer that develops from breast tissue. Signs of breast cancer 
 may include a lump in the breast, a change in breast shape, dimpling of the skin, 
 fluid coming from the nipple, a newly-inverted nipple, or a red or scaly patch of 
